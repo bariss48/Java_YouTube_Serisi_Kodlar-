@@ -37,6 +37,8 @@ public class ıce_ıce_for {
               System.out.println("Sayınız bir mükemmel sayı değildir...");
         }
         
+       // ASAL SAYI HESABI AŞAĞISI 
+        
       int sayac =0; 
        
       for(int k=2;k<1000;k++){
